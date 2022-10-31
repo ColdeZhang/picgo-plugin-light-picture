@@ -1,7 +1,7 @@
 {
   "name": "picgo-plugin-light-picture",
   "version": "1.0.0",
-  "description": "LightPicture图床",
+  "description": "适用于LightPicture图床的PicGo插件",
   "main": "src/index.js",
   "publishConfig": {
     "access": "public"
@@ -19,7 +19,7 @@
     "picgo-gui-plugin",
     "picgo-plugin"
   ],
-  "author": "ColdeZhang",
+  "author": "coldezhang",
   "repository": {
     "type": "git",
     "url": "git@github.com:/coldezhang/picgo-plugin-light-picture.git"

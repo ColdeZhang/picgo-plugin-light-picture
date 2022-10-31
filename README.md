@@ -12,8 +12,7 @@ LightPicture是一个使用thinkphp+vue开发，前后端分离的企业/团队�
 
 - 在线安装
 
-    👷...
-    <!-- 打开 [PicGo](https://github.com/Molunerfinn/PicGo) 详细窗口，选择**插件设置**，搜索**light-picture**安装，然后重启应用即可。 -->
+    打开 [PicGo](https://github.com/Molunerfinn/PicGo) 详细窗口，选择**插件设置**，搜索**light-picture**安装，然后重启应用即可。
 
 - 离线安装
 
